@@ -1,6 +1,6 @@
 <div class="header">
     <div class="header-left">
-        <a href="{{ url('/') }}" class="logo">
+        <a href="{{ route('home') }}" class="logo">
             AKAR METODE NUMERIK
         </a>
     </div>

@@ -4,7 +4,7 @@
             <ul>
                 <li class="menu-title"><span>Main</span></li>
                 <li class="active">
-                    <a href=""><i data-feather="home"></i> <span>Beranda</span></a>
+                    <a href="{{ route('home') }}"><i data-feather="home"></i> <span>Beranda</span></a>
                 </li>
                 <li class="submenu">
                     <a><i data-feather="hard-drive"></i> <span>Metode Tertutup</span> <span
